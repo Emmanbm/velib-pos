@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8a685450.css",
+    "main.js": "/static/js/main.ff6edcb7.js",
+    "static/media/icons_velib.png": "/static/media/icons_velib.05df4475c09209914710.png",
+    "index.html": "/index.html",
+    "main.8a685450.css.map": "/static/css/main.8a685450.css.map",
+    "main.ff6edcb7.js.map": "/static/js/main.ff6edcb7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8a685450.css",
+    "static/js/main.ff6edcb7.js"
+  ]
+}
